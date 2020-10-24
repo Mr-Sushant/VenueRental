@@ -73,4 +73,9 @@ What I am able to get from the Scenario is that I need to use the concept of **A
 
 ![ Check the img folder for the flowchart](https://github.com/Mr-Sushant/VenueRental/blob/main/img/flow.png "Flowchart")
 
+### Legend :
+* Green -- Start & End
+* Blue  -- User Input Required
+* Red   -- Condition Check
+* Yellow - Final Output
 ## Sushant Shukla

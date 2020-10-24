@@ -34,7 +34,7 @@ There is a mall in which there are some venues for playing sports and we have to
 
 ## Problem Statement
 
-Design a software that takes as input the personal details of user before letting him inside the system and then ask him to select the venue he/she wants to book and then input the time he wants to book for. If the time slot is available then complete the booking otherwise print an appropriate message.
+Design a software that takes as input the personal details of user before letting him inside the system and then ask him to select the venue he/she wants to have a new booking or check any previous booking and then accordingly ask him the required inputs and answer his query. If he wants to book and the the time slot is available then complete the booking otherwise print an appropriate message.
 
 ## Flow of Information
 
@@ -45,7 +45,7 @@ The user needs to input the following details before making any booking.
 3. Email id
 4. Aadhaar Number
 
-`struct user{
+`class user{
     string userName;
     int age;
     string email;
@@ -61,9 +61,9 @@ After this user will get the following menu options to choose the venue.
 
 ## My Approach
 
-I would use take the input from user in the form of start and end time of the booking of the venue and the venue id in the form of an array of structure. My structure would be as follows :
+I would use take the input from user in the form of start and end time of the booking of the venue and the venue id in the form of an vector of class. My class would be as follows :
 
-`struct venueBook {
+`class venueBook {
     int id;
     int start, end;
     string aadhar;
@@ -78,4 +78,7 @@ What I am able to get from the Scenario is that I need to use the concept of **A
 * Blue  -- User Input Required
 * Red   -- Condition Check
 * Yellow - Final Output
+
+## What is left and what errors are coming ?
+Whatever I was able to grasp from the scenario I did but I think there is some error in my declaration of vector of Venue class because it was showing some error like Venue class is not derived from 'const __gnu......'. I will look into it how to solve it. Coming to what is left I feel that I was not able to tackle the 2nd problem mentioned in the scenario and would love to have some clarity over it.
 ## Sushant Shukla

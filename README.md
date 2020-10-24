@@ -71,6 +71,6 @@ I would use take the input from user in the form of start and end time of the bo
 
 What I am able to get from the Scenario is that I need to use the concept of **Activity Selection** which is a greedy approach. [Here is the link to the problem](https://www.geeksforgeeks.org/activity-selection-problem-greedy-algo-1/)
 
-[alt text](https://github.com/Mr-Sushant/VenueRental/img/flow.png "Logo Title Text 1")
+![alt text](https://github.com/Mr-Sushant/VenueRental/img/flow.png "Logo Title Text 1")
 
 ## Susahnt Shukla

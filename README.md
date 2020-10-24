@@ -1,1 +1,3 @@
-# VenueRental
+# Venue Rental Software
+
+Susahnt Shukla

@@ -73,4 +73,4 @@ What I am able to get from the Scenario is that I need to use the concept of **A
 
 ![alt text](https://github.com/Mr-Sushant/VenueRental/img/flow.png "Logo Title Text 1")
 
-## Susahnt Shukla
+## Sushant Shukla
